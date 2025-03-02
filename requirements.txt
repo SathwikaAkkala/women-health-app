@@ -1,0 +1,11 @@
+streamlit
+flask
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+openai
+plotly
+cryptography
